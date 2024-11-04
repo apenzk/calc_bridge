@@ -1,6 +1,6 @@
 # calc_bridge
 
-calculations for bridge-DEX approaches
+calculations for bridge-DEX approaches.
 
 ## Usage
 
